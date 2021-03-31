@@ -1,0 +1,13 @@
+
+public class Phone {
+	
+     String Brand ;
+     String Colour ;
+     
+     
+     void waterproof () {
+    	 System.out.println("Waterproof");
+     }
+     
+
+}
